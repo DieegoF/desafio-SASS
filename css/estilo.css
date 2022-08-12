@@ -128,20 +128,22 @@ img {
   box-shadow: 7px 13px 37px #000;
   font-size: 22px;
   margin-bottom: 20px; }
-  .form-register .form-floating {
-    color: white; }
-  .form-register .formulario {
-    width: 400px;
-    background: white;
-    padding: 30px;
-    margin: auto;
-    margin-top: 100px;
-    border-radius: 4px;
-    font-family: 'calibri';
-    color: black;
-    box-shadow: 7px 13px 37px #000;
-    font-size: 22px;
-    margin-bottom: 20px; }
+
+.form-floating {
+  color: white; }
+
+.formulario {
+  width: 400px;
+  background: white;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: black;
+  box-shadow: 7px 13px 37px #000;
+  font-size: 22px;
+  margin-bottom: 20px; }
 
 .botons {
   width: 100%;
